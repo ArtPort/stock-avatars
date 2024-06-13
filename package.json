@@ -1,0 +1,12 @@
+{
+    "name": "@artport/stock-avatars",
+    "type": "module",
+    "version": "1.0.0",
+    "description": "A collection of stock avatars that can be used for local development.",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/artport/stock-avatars.git"
+    },
+    "author": "ArtPort",
+    "license": "MIT"
+}
